@@ -5,7 +5,7 @@ O código visa apresentar a utilização do Modelo de Machine Learning **COCO-SS
 [Clique aqui](https://github.com/tensorflow/tfjs-models/tree/master/coco-ssd)
 
 # <sub><img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" alt="Ícone do TensorFlow" width="36"></sub> Aplicação
-![image](https://github.com/user-attachments/assets/9995d84f-22b3-4603-bc3c-cdeb89e3aacd)
+![image](https://github.com/user-attachments/assets/e5ec0523-83e9-4f6e-ba1c-87f17885c3cd)
 
 #  <img src="https://img.icons8.com/?size=100&id=kPS7m4HWjQjR&format=png&color=000000" alt="Ícone dos livros" width="34"> Bibliotecas
 ### Instalação
