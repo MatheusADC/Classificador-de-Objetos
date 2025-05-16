@@ -37,10 +37,10 @@ function drawPredictions(predictions, ctx) {
   predictions.forEach(pred => {
     const [x, y, width, height] = pred.bbox;
 
-    ctx.strokeStyle = "#00FFFF";
+    ctx.strokeStyle = "#ffc600";
     ctx.strokeRect(x, y, width, height);
 
-    ctx.fillStyle = "#00FFFF";
+    ctx.fillStyle = "#ffc600";
     ctx.fillText(`${pred.class} (${(pred.score * 100).toFixed(1)}%)`, x, y > 10 ? y - 5 : 10);
   });
 }
