@@ -52,7 +52,7 @@ function showResults(predictions) {
     return;
   }
 
-  resultDiv.innerHTML = "<h2>Objetos Detectados:</h2><ul>" +
+  resultDiv.innerHTML = "<h2>Objetos Detectados:</h2><ol>" +
     predictions.map(p => `<li>${p.class} - ${(p.score * 100).toFixed(2)}%</li>`).join("") +
-    "</ul>";
+    "</ol>";
 }
